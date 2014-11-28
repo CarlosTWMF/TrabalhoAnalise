@@ -1,5 +1,5 @@
 
-package com.mycompany.jogoanalise;
+package com.carlosaugusto.designpatterns.jogoanalise;
 
 public class SingletonJogo21 {
 
